@@ -4,9 +4,9 @@
 - 🎓 Bacharel em Engenharia da Computação pela Universidade Veiga de Almeida (2019);
 - 🎓 Pós-graduado em Gerenciamento de Projetos pela Universidade Cândido Mendes (2021);
 - 🏥 Experiência na área da saúde como analista de sistemas e consultor;
-- 🔥 Experiência com integrações e produção de indicadores em PL/SQL com ferramentas como weKnow BI e Power BI;
-- 💻 Iniciando no desenvolvimento web;
-- 💡 Atualmente estudando sobre HTML, CSS, Java, Spring e Linux;
+- 🔥 Experiência com integrações e produção de indicadores em PL/SQL com ferramentas como WeKnow BI e Power BI;
+- 💻 Desenvolvedor Web Júnior;
+- 💡 Conhecimento em HTML, CSS, NodeJS, Oracle, MySQL, Java, Spring e Linux;
 - 📱 Entre em contato comigo em [(21) 99471-5075](https://api.whatsapp.com/send?phone=5521994715075&text=Ol%C3%A1) ou edsonhrf@gmail.com.
 
 ##
