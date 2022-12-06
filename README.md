@@ -3,6 +3,7 @@
 
 - 🎓 Bacharel em Engenharia da Computação pela Universidade Veiga de Almeida (2019);
 - 🎓 Pós-graduado em Gerenciamento de Projetos pela Universidade Cândido Mendes (2021);
+- 🎓 Certificado em PSPO-I pela Scrum.org;
 - 🏥 Experiência na área da saúde como analista de sistemas e consultor;
 - 🔥 Experiência com integrações e produção de indicadores em PL/SQL com ferramentas como WeKnow BI e Power BI;
 - 💻 Desenvolvedor;
