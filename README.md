@@ -7,7 +7,7 @@
 - 🏥 Experiência na área da saúde como analista de sistemas e consultor;
 - 🔥 Experiência com integrações e produção de indicadores em PL/SQL com ferramentas como WeKnow BI e Power BI;
 - 💻 Desenvolvedor;
-- 💡 Conhecimento em tecnologias como HTML, CSS, NodeJS, Oracle, MySQL, Java, Spring Framework, Linux, etc;
+- 💡 Conhecimento em tecnologias como HTML, CSS, NodeJS, ReactJS, Oracle, MySQL, Java, Spring Framework, Linux, etc;
 - 📱 Entre em contato comigo em [(21) 99471-5075](https://api.whatsapp.com/send?phone=5521994715075&text=Ol%C3%A1) ou edsonhrf@gmail.com.
 
 ##
